@@ -5,6 +5,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ipython notebook
+.ipynb_checkpoints/
+
+
 # C extensions
 *.so
 
